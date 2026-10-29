@@ -1,6 +1,7 @@
 # CMake build directories
 **/build/
 **/build-asan/
+**/build-ucrt/
 **/cmake-build-*/
 
 # CMake generated files
