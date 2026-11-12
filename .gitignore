@@ -3,6 +3,7 @@
 **/build-asan/
 **/build-ucrt/
 **/cmake-build-*/
+**/build-cmake/
 
 # CMake generated files
 CMakeFiles/
